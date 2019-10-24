@@ -1,9 +1,5 @@
 # Data analysis in Python using built-in types
 
-Date: June 22, 2019
-
------
-
 ## Learning Objectives
 
 * Using the command line to:
